@@ -24,4 +24,4 @@ To run the Choobin interpreter, you need to have Python installed on your system
 
 Clone this repository to your local machine using:
 ```sh
-git clone https://github.com/yourusername/choobin.git
+git clone https://github.com/OnlyParsa/ChoobinV2
